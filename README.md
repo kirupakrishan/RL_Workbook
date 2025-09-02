@@ -20,17 +20,29 @@ The aim of this project is to explore and compare different RL algorithms across
 ## 📂 Repository Structure
 
 RL_Code/
+
 │── README.md # Project documentation
+
 │── requirements.txt # Python dependencies
+
 │── config/ # Training configurations
+
 │── environments/ # Custom environments
+
 │── models/ # Saved trained models
+
 │── notebooks/ # Jupyter notebooks for experiments
+
 │── src/ # Core RL implementation
+
 │ ├── agents/ # RL agents (DQN, PPO, A2C, etc.)
+
 │ ├── utils/ # Helper functions (logging, plotting, etc.)
+
 │ └── train.py # Training script
+
 │── results/ # Logs, plots, evaluation metrics
+
 
 
 
